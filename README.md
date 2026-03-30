@@ -1,9 +1,9 @@
 # 🚀 Digital Literacy Project Portfolio
 
 ## 👤 Student Details
-* **Name:** [Type Your Real Name Here]
-* **Registration Number:** [Type Your Reg No Here]
-* **Branch:** B.Tech [Your Branch]
+* **Name:** Aryavardhan
+* **Registration Number:** 25BAI10161
+* **Branch:** B.Tech CSE (AI & ML)
 * **Year:** First Year
 * **Course:** CSE0001 - Digital Literacy
 
