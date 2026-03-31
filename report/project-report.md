@@ -9,42 +9,41 @@
 ---
 
 ## Introduction
-[cite_start]This report documents my work as a Student Digital Ambassador during the Digital Literacy course[cite: 4, 6]. [cite_start]The project involved completing five distinct tasks designed to build a professional online presence, master digital collaboration, and understand cybersecurity risks[cite: 7, 31, 74]. [cite_start]Throughout this assignment, I have organized my deliverables in a GitHub repository and practiced essential skills like professional emailing and coding challenge completion[cite: 8, 45, 60].
+This report documents the completion of five tasks for the Digital Literacy course. The objective was to function as a Student Digital Ambassador by building a professional online presence and demonstrating a baseline understanding of digital safety and communication. The work includes a GitHub repository, professional profiles, and a research-based case study on cybercrime.
 
 ---
 
 ## Task 1 Write-up
-[cite_start]For this task, I created a one-page Digital Literacy Awareness Infographic using Canva[cite: 21, 23, 28]. [cite_start]My design focused on defining digital literacy, highlighting useful tools for students, and outlining safe internet practices[cite: 25]. [cite_start]I used a clean, professional layout with icons to make the information digestible for my peers[cite: 21]. The most interesting part of the process was learning how to balance visual elements with concise text to ensure the message was clear at a glance. [cite_start]I found it slightly challenging to narrow down the vast topic of digital literacy into just three key areas, but using a template helped me maintain a structured flow[cite: 24].
+I created a Digital Literacy Awareness Infographic using Canva. The design covers the definition of digital literacy, essential digital tools for students, and basic internet safety practices. The visual is intended to be a one-page resource for peers. The most relevant part of the process was selecting the most critical information to fit a single-page format. I found it interesting to see how visual hierarchy can be used to emphasize safety tips over general definitions. The exported image is available in the repository.
 
 ---
 
 ## Task 2 Write-up
-[cite_start]I established my professional digital presence by updating my accounts on GitHub, LinkedIn, and HackerRank[cite: 33]. [cite_start]GitHub serves as my primary repository for technical projects, while I use LinkedIn to connect with the academic and professional community[cite: 31, 35]. [cite_start]For the third platform, HackerRank allows me to practice competitive programming[cite: 47]. [cite_start]Over the next four years, I plan to use LinkedIn to track internship opportunities and GitHub to host my semester-wise project work[cite: 37]. [cite_start]Keeping these profiles minimal and professional now ensures I have a strong foundation for future career placements[cite: 30, 39].
+For the digital portfolio task, I updated my GitHub and LinkedIn profiles and established a presence on HackerRank. GitHub serves as a technical repository for my code, while LinkedIn is used for professional networking within the B.Tech community. I plan to use these platforms over the next four years to document my academic projects and track internship opportunities. Maintaining a minimal and professional profile at this stage ensures a clean digital footprint before entering the job market.
 
 ---
 
 ## Task 3 Write-up
-[cite_start]In this module, I practiced technical and collaborative skills by completing the "Solve Me First" challenge on HackerRank and building a Digital Literacy Quiz via Google Forms[cite: 46, 48, 52]. [cite_start]Completing the coding challenge helped me get familiar with competitive programming environments[cite: 45]. [cite_start]Building the Google Form was particularly useful as it allowed me to create a 5-question assessment with mixed question types to test peer awareness[cite: 52, 53]. Academically, these tools are essential; [cite_start]Google Workspace will help in team projects, while coding platforms will prepare me for technical interviews and lab assessments[cite: 55].
+This task involved completing a beginner-level coding challenge on HackerRank and creating a Digital Literacy Quiz using Google Forms. The coding challenge provided an introduction to competitive programming environments. The Google Form consists of five questions designed to test basic digital awareness among students. Academically, these tools are necessary for cloud-based collaboration and technical skill development. The results and links are documented in the platforms folder.
 
 ---
 
 ## Task 4 Write-up
-[cite_start]Communication is a core part of the Digital Ambassador role[cite: 59]. [cite_start]I drafted two professional emails: one requesting an assignment extension from a professor and another expressing interest in a summer internship[cite: 61, 62, 64]. [cite_start]I also developed a 10-point Social Media checklist[cite: 67, 68]. A key learning was the "think before you post" rule. I explored a scenario where a student lost an internship offer due to unprofessional public venting on social media. [cite_start]This taught me that digital footprints are permanent and that professional concerns should always be handled through private, formal channels rather than public platforms[cite: 70].
+I drafted two professional emails: a request for an assignment extension and an internship inquiry. I also compiled a social media checklist consisting of five do's and five don'ts. A key takeaway was the importance of discretion in digital communication. I analyzed a scenario where a student’s public social media post resulted in a lost internship opportunity. This highlights that professional issues should be handled through formal, private channels to avoid long-term career damage.
 
 ---
 
 ## Task 5 Write-up
-[cite_start]Researching the "Fake PG Accommodation" UPI scam was eye-opening[cite: 75, 77]. [cite_start]I was surprised to learn that most cybercrimes rely on simple social engineering and "fake urgency" rather than complex technical hacking[cite: 78, 79]. [cite_start]Scammers exploit the stress of students to trick them into entering their UPI PINs[cite: 78]. [cite_start]As a result, I am changing my habit of using public Wi-Fi for sensitive tasks[cite: 82, 86]. [cite_start]I will now strictly use mobile data for banking and ensure I never enter my PIN to "receive" money[cite: 82, 83].
+I researched a case study on UPI fraud involving a fake accommodation scam. It was surprising to find that most cybercrimes rely on simple social engineering and artificial urgency rather than technical exploits. Scammers specifically target students by creating panic to bypass logical thinking. Consequently, I will stop using public Wi-Fi for any banking activities and will strictly use mobile data. I have also learned that a UPI PIN is never required to receive a payment.
 
 ---
 
 ## Conclusion
-[cite_start]This project has significantly improved my digital confidence[cite: 19]. [cite_start]I have moved from being a passive user to an active, responsible digital citizen[cite: 5]. [cite_start]Learning to manage a GitHub repository, communicate professionally, and identify online threats has provided me with a toolkit that will be vital throughout my B.Tech journey and future career in AI and ML[cite: 6, 92].
+The project provided a comprehensive overview of essential digital skills. I have transitioned from a general user to a more informed digital citizen. Building a GitHub repository and practicing professional communication has provided a necessary foundation for my B.Tech journey. These skills will be directly applicable to my future work in the field of AI and ML.
 
 ---
 
 ## References
-1. VIT Bhopal University. (2026). [cite_start]CSE0001 - Digital Literacy Project Brief[cite: 1].
-2. GitHub. (n.d.). [cite_start][github.com](https://github.com)[cite: 120].
-3. Canva. (n.d.). [cite_start][canva.com](https://canva.com)[cite: 120].
-4. National Cyber Crime Reporting Portal. [cite_start][cybercrime.gov.in](https://cybercrime.gov.in)[cite: 121].
+1. VIT Bhopal University. (2026). CSE0001 - Digital Literacy Project Brief.
+2. GitHub. (2026). Official Website.
+3. National Cyber Crime Reporting Portal. (2026). Official Guidelines.
