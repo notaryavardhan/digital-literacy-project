@@ -14,8 +14,8 @@ I completely understand if this is not possible, but I wanted to ask just in cas
 
 Sincerely,
 
-Aryavardhan
-First Year, B.Tech CSE (AI and ML)
+Aryavardhan  
+First Year, B.Tech CSE (AI and ML)  
 Registration No: 25BAI10161
 
 ================================================================================
