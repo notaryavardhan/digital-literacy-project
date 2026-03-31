@@ -5,7 +5,6 @@
 **Branch:** B.Tech CSE (AI and ML)  
 **Year:** First Year  
 **Course Code:** CSE0001  
-**Date:** March 31, 2026
 
 ---
 
