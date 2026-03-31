@@ -4,7 +4,7 @@
 **Registration Number:** 25BAI10161  
 **Branch:** B.Tech CSE (AI and ML)  
 **Year:** First Year  
-**Course Code:** CSE0001  
+**Course Code:** CSE0001
 
 ---
 
@@ -19,7 +19,7 @@ I created a Digital Literacy Awareness Infographic using Canva. The design cover
 ---
 
 ## Task 2 Write-up
-For the digital portfolio task, I updated my GitHub and LinkedIn profiles and established a presence on HackerRank. GitHub serves as a technical repository for my code, while LinkedIn is used for professional networking within the B.Tech community. I plan to use these platforms over the next four years to document my academic projects and track internship opportunities. Maintaining a minimal and professional profile at this stage ensures a clean digital footprint before entering the job market.
+For the digital portfolio task, I updated my GitHub and LinkedIn profiles and established a presence on HackerRank, Kaggle, and Stack Overflow. GitHub serves as a technical repository for my code, while LinkedIn is used for professional networking. Kaggle and HackerRank allow me to practice data science and competitive programming, while Stack Overflow helps in troubleshooting and community learning. I plan to use these platforms over the next four years to document my academic projects and track internship opportunities. 
 
 ---
 
@@ -44,6 +44,10 @@ The project provided a comprehensive overview of essential digital skills. I hav
 ---
 
 ## References
-1. VIT Bhopal University. (2026). CSE0001 - Digital Literacy Project Brief.
-2. GitHub. (2026). Official Website.
-3. National Cyber Crime Reporting Portal. (2026). Official Guidelines.
+1. GitHub. (2026). Professional Development & Code Hosting.
+2. LinkedIn. (2026). Professional Networking Platform.
+3. HackerRank. (2026). Coding Practice Platform.
+4. Kaggle. (2026). Data Science Community.
+5. Stack Overflow. (2026). Developer Knowledge Sharing.
+6. Canva. (2026). Graphic Design Platform.
+7. National Cyber Crime Reporting Portal. (2026). Official Guidelines.
