@@ -36,6 +36,6 @@ Thank you for your time and consideration. I look forward to the possibility of 
 
 Best regards,
 
-Aryavardhan
-Registration No: 25BAI10161
+Aryavardhan  
+Registration No: 25BAI10161  
 LinkedIn: www.linkedin.com/in/notavardhan
